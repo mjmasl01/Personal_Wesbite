@@ -1,0 +1,41 @@
+/* Sticky navbar */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* Widen and center the content area */
+.main-content {
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.3); /* subtle frame effect */
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Add spacing between image + text */
+.about-contents {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+/* Add breathing room under headings */
+h2, h3 {
+  margin-top: 2rem;
+}
+
+/* Space out buttons */
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+/* Optional: adjust navbar spacing */
+.navbar {
+  padding: 0.75rem 2rem;
+}

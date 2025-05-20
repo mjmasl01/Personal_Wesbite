@@ -9,7 +9,7 @@ about:
       url: "https://www.linkedin.com/in/matthew-maslow/"
     - text: GitHub
       icon: github
-      url: "https://github.com/mjmasl01/Personal_Website.git"
+      url: "https://github.com/mjmasl01/Project_CV_Work.git"
     - text: Email (Personal)
       icon: envelope
       url: "mailto:mjmaslow13@gmail.com"
@@ -25,15 +25,19 @@ about:
 comments: false
 ---
 
----
+:::{.main-content}
 
-Hi, I'm Matt — a data scientist with a strong foundation in statistical modeling, machine learning, and cloud-based analytics. I earned a B.S. in Data Science from [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"} in May 2024, where I focused on applied statistics, advanced modeling, and database systems. I’m currently completing my M.S. in Data Science at [Boston University](https://www.bu.edu/cds/), with coursework in Bayesian statistics, deep learning, AI ethics, medical science, and financial analytics.
+
+### Hi, I'm Matt
+
+I'm a data scientist with a strong foundation in statistical modeling, machine learning, and cloud-based analytics. I earned a B.S. in Data Science from [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"} in May 2024, where I focused on applied statistics, advanced modeling, and database systems. I’m currently completing my M.S. in Data Science at [Boston University](https://www.bu.edu/cds/), with coursework in Bayesian statistics, deep learning, AI ethics, medical science, and financial analytics.
 
 My work spans health analytics, finance, sports, and public data visualization. Highlights include:
-- Building real-time Azure pipelines and sentiment models for cryptocurrency analytics
-- Creating Shiny dashboards and Power BI visualizations for public health and sports data
-- Developing predictive models for depression risk using the NHANES survey and clinical data
-- Contributing to a published clinical research article on hemodynamic monitoring in cardiac patients
+
+- Building real-time Azure pipelines and sentiment models for cryptocurrency analytics  
+- Creating Shiny dashboards and Power BI visualizations for public health and sports data  
+- Developing predictive models for depression risk using the NHANES survey and clinical data  
+- Contributing to a published clinical research article on hemodynamic monitoring in cardiac patients  
 
 Whether regression modeling, cloud infrastructure, or storytelling through dashboards, I love applying data to solve real-world problems with clarity and insight.
 
@@ -41,7 +45,8 @@ Whether regression modeling, cloud infrastructure, or storytelling through dashb
 
 ## Projects & Publications
 
-**Publication**  
+### Publication
+
 As a Research Assistant (Summer 2023), I conducted statistical analysis in RStudio — including descriptive statistics and hypothesis testing — to examine systolic pressure variations across three arterial sites in cardiac surgery patients. This work contributed to a peer-reviewed research article published in the *Journal of Cardiothoracic and Vascular Anesthesia*.
 
 **Citation:**  
@@ -50,12 +55,12 @@ Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, 
 
 ---
 
-**Dashboards & Data Projects**
+### Dashboards & Data Projects
 
 - [US Alcohol Consumption Dashboard](https://mjmasl01.shinyapps.io/us_alcohol_consumption/){target="_blank"}  
   Interactive Shiny app visualizing historical trends in per capita alcohol consumption across U.S. states by beverage type.
 
-- [March Madness Analysis](https://mjmasl01.shinyapps.io/Data343_March_Madness_Analysis/){target="_blank"}  
+- [March Madness Analysis](https://mjmasl01.shinyapps.io/data334_final_project_March_Madness/){target="_blank"}  
   A Shiny dashboard analyzing NCAA March Madness performance, team statistics, and tournament insights.
 
 - [Bitcoin Market & Sentiment Tracker](https://app.powerbi.com/view?r=eyJrIjoiY2JiZWM1MGItNzY1Ny00NWJiLWI4Y2EtZjE2ZWExNzFiZWY0IiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9){target="_blank"}  
@@ -64,3 +69,6 @@ Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, 
 - [SCORE Network Rodeo Sports Analysis (Bull Riders)](https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html){target="_blank"}  
   Developed during my Senior Year Experience (SYE), this project analyzes rider and bull performance data from the PBR (Professional Bull Riders) tour using public data provided by the SCORE Network. It includes scraped statistics, custom indicators, and exploratory insights into event structure and rider outcomes.
 
+
+:::
+:::{.footer}
