@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Embedded Shiny App</title>
+
+  <!-- Include Shiny CSS and JavaScript dependencies -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/shiny@1.7.1/css/shiny.css">
+  <script src="https://cdn.jsdelivr.net/npm/shiny@1.7.1/js/shiny.js"></script>
+</head>
+
+<body>
+  <!-- Embed Shiny app using htmlOutput -->
+  <div id="shiny-app-container" class="shiny-app">
+    <!-- You can adjust the width and height as needed -->
+    <div id="shiny-app" style="width: 100%; height: 800px;">
+      <!-- Include your Shiny app here -->
+      <!-- Replace 'my_shiny_app' with the path to your Shiny app directory -->
+      <?php echo htmlspecialchars(shell_exec("R -e 'shiny::runApp(\"my_shiny_app\")'")); ?>
+    </div>
+  </div>
+</body>
+
+</html>

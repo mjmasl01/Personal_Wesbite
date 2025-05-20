@@ -1,0 +1,136 @@
+---
+title: "Matt Maslow"
+image: me.png
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/matthew-maslow/"
+    - text: GitHub
+      icon: github
+<<<<<<< HEAD
+      url: "https://github.com/mjmasl01/mjmasl20_DATA450.git"
+    - text: Email
+      icon: envelope
+      url: "mailto:mjmaslow13@gmail.com"
+    - text: CV
+      icon: file
+      url: Matt_Maslow_CV.pdf
+    - text: Resume
+      icon: graduation-cap
+      url: Matt_Maslow_Resume_Official.pdf
+comments: false
+--- 
+=======
+      url: "https://github.com/mjmasl01/Project_CV_Work.git"
+    - text: Email (Personal)
+      icon: envelope
+      url: "mailto:mjmaslow13@gmail.com"
+    - text: Email (Academic)
+      icon: envelope
+      url: "mailto:mjmaslow@bu.edu"
+    - text: CV
+      icon: file
+      url: General_CL.pdf
+    - text: Resume
+      icon: graduation-cap
+      url: MjMaslow_Official_Master_Resume.pdf
+comments: false
+--- 
+ 
+>>>>>>> 7ef29f0 (Initial commit: all site content and configuration)
+
+
+
+-----------------------------------------------------------------------------
+
+
+
+<<<<<<< HEAD
+Hi, I'm Matt, a Data Science student at [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"}
+
+=======
+Hi, I'm Matt — a data scientist with a strong foundation in statistical modeling, machine learning, and cloud-based analytics. I earned a B.S. in Data Science from [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"} in May 2024, where I focused on applied statistics, advanced modeling, and database systems. I’m currently completing my M.S. in Data Science at [Boston University](https://www.bu.edu/cds/), with coursework in Bayesian statistics, deep learning, AI ethics, medical science, and financial analytics.
+
+My work spans health analytics, finance, sports, and public data visualization. Highlights include:
+- Building real-time Azure pipelines and sentiment models for cryptocurrency analytics
+- Creating Shiny dashboards and Power BI visualizations for public health and sports data
+- Developing predictive models for depression risk using the NHANES survey and clinical data
+- Contributing to a published clinical research article on hemodynamic monitoring in cardiac patients
+
+Whether regression modeling, cloud infrastructure, or storytelling through dashboards, I love applying data to solve real-world problems with clarity and insight.
+>>>>>>> 7ef29f0 (Initial commit: all site content and configuration)
+
+
+
+-----------------------------------------------------------------------------
+
+<<<<<<< HEAD
+Here's a little bit of my work....
+
+{{< video https://youtu.be/8QltdQkpPSM?si=yGapqRAAsFYXKMij>}}
+=======
+
+## Projects & Publications
+
+**Publication**  
+As a Research Assistant (Summer 2023), I conducted statistical analysis in RStudio — including descriptive statistics and hypothesis testing — to examine systolic pressure variations across three arterial sites in cardiac surgery patients. This work contributed to a peer-reviewed research article published in the *Journal of Cardiothoracic and Vascular Anesthesia*.
+
+**Citation:**  
+Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. *Hemodynamic Monitoring in The Cardiac Surgical Patient: Comparison of Three Arterial Catheters.* J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: [10.1053/j.jvca.2024.02.010](https://doi.org/10.1053/j.jvca.2024.02.010). PMID: 38461034.  
+[View article](https://authors.elsevier.com/c/1ikJf_NyRSCPHg){target="_blank"}
+
+**Dashboards & Data Projects**
+
+- [US Alcohol Consumption Dashboard](https://mjmasl01.shinyapps.io/us_alcohol_consumption/){target="_blank"}  
+  Interactive Shiny app visualizing historical trends in per capita alcohol consumption across U.S. states by beverage type.
+
+- [March Madness Analysis](https://mjmasl01.shinyapps.io/Data343_March_Madness_Analysis/){target="_blank"}  
+  A Shiny dashboard analyzing NCAA March Madness performance, team statistics, and tournament insights.
+
+- [Bitcoin Market & Sentiment Tracker](https://app.powerbi.com/view?r=eyJrIjoiY2JiZWM1MGItNzY1Ny00NWJiLWI4Y2EtZjE2ZWExNzFiZWY0IiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9){target="_blank"}  
+  Real-time Power BI dashboard combining social sentiment analysis and cryptocurrency price signals, powered by Azure-based data pipelines.
+
+- [SCORE Network Rodeo Sports Analysis (Bull Riders)](https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html){target="_blank"}  
+  Developed during my Senior Year Experience (SYE), this project analyzes rider and bull performance data from the PBR (Professional Bull Riders) tour using public data provided by the SCORE Network. It includes scraped statistics, custom indicators, and exploratory insights into event structure and rider outcomes.
+>>>>>>> 7ef29f0 (Initial commit: all site content and configuration)
+
+
+-----------------------------------------------------------------------------
+
+<<<<<<< HEAD
+Shiny apps: 
+  * [US Alcohol Consumption](http://mjmasl01.shinyapps.io/us_alcohol_consumption){target="_blank"}
+  
+  * [March Madness Analysis](https://mjmasl01.shinyapps.io/Data343_March_Madness_Analysis/){target="_blank"} 
+
+-----------------------------------------------------------------------------
+
+co-author: [link to article](https://authors.elsevier.com/c/1ikJf_NyRSCPHg){target="_blank"}
+
+=======
+
+## Technical Skills
+
+**Programming:** Python, R (RStudio), SQL, HTML, Excel  
+**Tools & Platforms:** Jupyter Notebooks, VS Code, DataGrip, Git, MySQL, Microsoft Azure, Power BI, Tableau  
+**APIs & Data Formats:**  APIs, JSON  
+**Certifications:** CITI Certified, HIPAA Compliant
+>>>>>>> 7ef29f0 (Initial commit: all site content and configuration)
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+
+
+
+=======
+>>>>>>> 7ef29f0 (Initial commit: all site content and configuration)

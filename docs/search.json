@@ -1,0 +1,28 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matt Maslow",
+    "section": "",
+<<<<<<< HEAD
+    "text": "Hi, I’m Matt, a Data Science student at St. Lawrence University\n\nHere’s a little bit of my work….\n\n\nShiny app: US Alcohol Consumption\n\nco-author: link to article"
+=======
+    "text": "Hi, I'm Matt — a data scientist with a strong foundation in statistical modeling, machine learning, and cloud-based analytics. I earned a B.S. in Data Science from St. Lawrence University in May 2024, and I’m currently completing my M.S. in Data Science at Boston University, with coursework in Bayesian statistics, deep learning, AI ethics, medical science, and financial analytics.\n\nMy work spans health analytics, finance, sports, and public data visualization. Highlights include:\n- Building real-time Azure pipelines and sentiment models for cryptocurrency analytics\n- Creating Shiny dashboards and Power BI visualizations for public health and sports data\n- Developing predictive models for depression risk using NHANES data\n- Contributing to a published clinical research article on hemodynamic monitoring in cardiac patients\n\nProjects & Publications:\n- US Alcohol Consumption Dashboard (Shiny)\n- March Madness Analysis (Shiny)\n- Bitcoin Market & Sentiment Tracker (Power BI)\n- SCORE Network Rodeo Sports Analysis (Bull Riders)\n- Publication in the Journal of Cardiothoracic and Vascular Anesthesia"
+>>>>>>> 7ef29f0 (Initial commit: all site content and configuration)
+  },
+  {
+    "objectID": "SYE/index.html",
+    "href": "SYE/index.html",
+<<<<<<< HEAD
+    "title": "Matthew J Maslow",
+    "section": "",
+    "text": "&lt;!DOCTYPE html&gt;\n\n\n\n\n\nEmbedded Shiny App\n\n\n\n\n\n\n\n\n&lt;!-- You can adjust the width and height as needed --&gt;\n&lt;div id=\"shiny-app\" style=\"width: 100%; height: 800px;\"&gt;\n  &lt;!-- Include your Shiny app here --&gt;\n  &lt;!-- Replace 'my_shiny_app' with the path to your Shiny app directory --&gt;\n  &lt;?php echo htmlspecialchars(shell_exec(\"R -e 'shiny::runApp(\\\"my_shiny_app\\\")'\")); ?&gt;\n&lt;/div&gt;"
+  }
+]
+=======
+    "title": "SCORE Network SYE – Bull Riding Analysis",
+    "section": "",
+    "text": "Senior Year Experience (SYE) project analyzing rider and bull performance in the Professional Bull Riders (PBR) tour using public rodeo data from the SCORE Network. Includes scraped statistics, event-level indicators, and interactive visualizations of bull rider outcomes.\n\nView project: https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html"
+  }
+]
+>>>>>>> 7ef29f0 (Initial commit: all site content and configuration)
