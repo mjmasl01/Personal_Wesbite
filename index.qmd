@@ -16,17 +16,10 @@ about:
     - text: Email (Academic)
       icon: envelope
       url: "mailto:mjmaslow@bu.edu"
-    - text: CV
-      icon: file
-      url: General_CL.pdf
-    - text: Resume
-      icon: graduation-cap
-      url: MjMaslow_Official_Master_Resume.pdf
 comments: false
 ---
 
 :::{.main-content}
-
 
 ### Hi, I'm Matt
 
@@ -41,21 +34,13 @@ My work spans health analytics, finance, sports, and public data visualization. 
 
 Whether regression modeling, cloud infrastructure, or storytelling through dashboards, I love applying data to solve real-world problems with clarity and insight.
 
----
-
-## Projects & Publications
-
-### Publication
-
-As a Research Assistant (Summer 2023), I conducted statistical analysis in RStudio — including descriptive statistics and hypothesis testing — to examine systolic pressure variations across three arterial sites in cardiac surgery patients. This work contributed to a peer-reviewed research article published in the *Journal of Cardiothoracic and Vascular Anesthesia*.
-
-**Citation:**  
-Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. *Hemodynamic Monitoring in The Cardiac Surgical Patient: Comparison of Three Arterial Catheters.* J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: [10.1053/j.jvca.2024.02.010](https://doi.org/10.1053/j.jvca.2024.02.010). PMID: 38461034.  
-[View article](https://authors.elsevier.com/c/1ikJf_NyRSCPHg){target="_blank"}
+**Documents**  
+📄 [View Cover Letter (PDF)](General_CL.pdf)  
+🎓 [View Resume (PDF)](MjMaslow_Official_Master_Resume.pdf)
 
 ---
 
-### Dashboards & Data Projects
+## Dashboards & Data Projects
 
 - [US Alcohol Consumption Dashboard](https://mjmasl01.shinyapps.io/us_alcohol_consumption/){target="_blank"}  
   Interactive Shiny app visualizing historical trends in per capita alcohol consumption across U.S. states by beverage type.
@@ -66,9 +51,24 @@ Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, 
 - [Bitcoin Market & Sentiment Tracker](https://app.powerbi.com/view?r=eyJrIjoiY2JiZWM1MGItNzY1Ny00NWJiLWI4Y2EtZjE2ZWExNzFiZWY0IiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9){target="_blank"}  
   Real-time Power BI dashboard combining social sentiment analysis and cryptocurrency price signals, powered by Azure-based data pipelines.
 
-- [SCORE Network Rodeo Sports Analysis (Bull Riders)](https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html){target="_blank"}  
-  Developed during my Senior Year Experience (SYE), this project analyzes rider and bull performance data from the PBR (Professional Bull Riders) tour using public data provided by the SCORE Network. It includes scraped statistics, custom indicators, and exploratory insights into event structure and rider outcomes.
+---
 
+## Publications
+
+### Hemodynamic Monitoring in Cardiac Surgery
+
+As a Research Assistant (Summer 2023), I conducted statistical analysis in RStudio — including descriptive statistics and hypothesis testing — to examine systolic pressure variations across three arterial sites in cardiac surgery patients. This work contributed to a peer-reviewed research article published in the *Journal of Cardiothoracic and Vascular Anesthesia*.
+
+**Citation:**  
+Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. *Hemodynamic Monitoring in The Cardiac Surgical Patient: Comparison of Three Arterial Catheters.* J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: [10.1053/j.jvca.2024.02.010](https://doi.org/10.1053/j.jvca.2024.02.010). PMID: 38461034.  
+[View article](https://authors.elsevier.com/c/1ikJf_NyRSCPHg){target="_blank"}
+
+### Rodeo Sports Analytics: Senior Year Experience
+
+During my Senior Year Experience (SYE) at St. Lawrence University, I developed a public-facing data analytics project published by the SCORE Network. The project analyzes rider and bull performance data from the Professional Bull Riders (PBR) tour, using scraped statistics and custom indicators to explore event structure, athlete outcomes, as well as creating educational material for new data science learners to use.
+
+[View SCORE Network Project](https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html){target="_blank"}
 
 :::
 :::{.footer}
+
