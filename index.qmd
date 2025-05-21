@@ -23,7 +23,7 @@ comments: false
 
 ### Hi, I'm Matt
 
-I'm a data scientist with a strong foundation in statistical modeling, machine learning, and cloud-based analytics. I earned a B.S. in Data Science from [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"} in May 2024, where I focused on applied statistics, advanced modeling, and database systems. I have recentyly completed my M.S. in Data Science at [Boston University](https://www.bu.edu/cds/), with coursework in Bayesian statistics, deep learning, AI ethics, medical science, and financial analytics.
+I'm a data scientist with a strong foundation in statistical modeling, machine learning, and cloud-based analytics. I earned a B.S. in Data Science from [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"} in May 2024, where I focused on applied statistics, advanced modeling, and database systems. I have recently completed my M.S. in Data Science at [Boston University](https://www.bu.edu/cds/), with coursework in Bayesian statistics, deep learning, AI ethics, medical science, and financial analytics.
 
 My work spans health analytics, finance, sports, and public data visualization. Highlights include:
 
