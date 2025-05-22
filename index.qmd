@@ -7,7 +7,7 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/matthew-maslow/"
-    - text: GitHub
+    - text: Project Work GitHub
       icon: github
       url: "https://github.com/mjmasl01/Project_CV_Work.git"
     - text: Email (Personal)
@@ -45,6 +45,3 @@ Whether regression modeling, cloud infrastructure, or storytelling through dashb
 - [Contact Me](contact.qmd)
 
 :::
-:::{.footer}
-
-

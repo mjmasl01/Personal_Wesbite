@@ -30,23 +30,23 @@
   {
     "objectID": "current.html",
     "href": "current.html",
-    "title": "current work",
+    "title": "Current Work & Projects",
     "section": "",
-    "text": "Projects\nComing soon!"
+    "text": "Coming soon!"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Bitcoin Market & Sentiment Tracker\nPower BI dashboard analyzing cryptocurrency market sentiment and price signals using social media and historical price data.\nView Dashboard\nGitHub Repo\n\n\n\nUS Alcohol Consumption Dashboard\nShiny app visualizing historical trends in per capita alcohol consumption across U.S. states by beverage type.\nLaunch App\nGitHub Repo\n\n\n\n2024 March Madness Analysis\nShiny dashboard analyzing 2024 NCAA March Madness performance, team statistics, and tournament insights. Launch App GitHub Repo\n\n\n\nFinancial Analytics: CEO Pay and Performance\nRegression-based group study examining the relationship between executive compensation and financial performance in tech companies.\nGitHub Repo\n\n\n\nHemodynamic Monitoring (Clinical Research)\nStatistical R analysis on arterial pressure site comparisons in cardiac surgery patients. Used in peer-reviewed publication.\nGitHub Repo\n\n\n\nMusic Genre Classification Using Deep Learning\nKNN vs. CNN comparison using audio features and spectrograms to classify music genres.\nGitHub Repo\n\n\n\nPredicting Depression Risk from NHANES Data\nLogistic regression and XGBoost models with SHAP explainability and class rebalancing (SMOTE).\nGitHub Repo\n\n\n\nSYE – SCORE Network (Rodeo Sports Analytics)\nCapstone project analyzing PBR bull rider performance. Published to the SCORE Network.\nGitHub Repo\n\n\n\nTree-Based Beta Regression for Metatranscriptomics\nGroup project, where we modeled microbial gene expression data using beta regression and tree-based feature selection.\nGitHub Repo\n\n\n\nSave the Children: Attendance & Retention Analysis\nGroup Project, where we used ML modeling and pipeline work for student data across multiple countries (I specifically worked on Student Retention Studies).\nGitHub Repo"
+    "text": "Bitcoin Market & Sentiment Tracker\nSpring 2025\nPower BI dashboard analyzing cryptocurrency market sentiment and price signals using social media and historical price data.\nView Dashboard\nGitHub Repo\n\n\n\nPredicting Depression Risk from NHANES Data\nSpring 2025\nLogistic regression and XGBoost models with SHAP explainability and class rebalancing (SMOTE).\nGitHub Repo\n\n\n\nFinancial Analytics: CEO Pay and Performance\nSpring 2025\nRegression-based group study examining the relationship between executive compensation and financial performance in tech companies.\nGitHub Repo\n\n\n\nTree-Based Beta Regression for Metatranscriptomics\nFall 2024\nGroup project modeling microbial gene expression using beta regression and tree-based feature selection.\nGitHub Repo\n\n\n\nSave the Children: An Analysis on Programs\nFall 2024\nGroup project applying machine learning models and pipeline development to student-level data across multiple countries. I specifically contributed to the Student Retention Studies component.\nDetails available upon request, in accordance with client confidentiality.\n\n\n\nMusic Genre Classification Using Deep Learning\nFall 2024\nKNN vs. CNN comparison using audio features and spectrograms to classify music genres.\nGitHub Repo\n\n\n\nICU Sepsis Data Analysis – Brown University Health\nSummer 2024 – Fall 2024\nAnalyzed ICU sepsis patient data from the MIMIC-IV database in collaboration with the BERDI Core and clinical researchers. Focused on uniform sampling, data wrangling in RStudio, and recommending preprocessing strategies for outcome modeling. Details available upon request, in accordance with client confidentiality.\n\n\n\nSYE – SCORE Network (Rodeo Sports Analytics)\nSpring 2024\nContributed to an NSF-funded project analyzing PBR rider performance data. Built ETL workflows, created educational materials, and presented findings at a university showcase. Published to the SCORE Network. Link to Project: SCORE Network: Rodeo Sports: Professional Bull Riding Analysis\nGitHub Repo\n\n\n\nUS Alcohol Consumption Dashboard\nSpring 2024\nShiny app visualizing historical trends in per capita alcohol consumption across U.S. states by beverage type.\nLaunch App\nGitHub Repo\n\n\n\n2024 March Madness Analysis\nSpring 2024\nShiny dashboard analyzing 2024 NCAA March Madness performance, team statistics, and tournament insights.\nLaunch App\nGitHub Repo\n\n\n\nHemodynamic Monitoring (Clinical Research)\nSummer 2023\nStatistical R analysis on arterial pressure site comparisons in cardiac surgery patients. Used in peer-reviewed publication.\nGitHub Repo"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I’m always open to connecting about new projects, roles, research, or collaborations — especially in applied data science, analytics, or data engineering. If you have a question or just want to say hi, feel free to reach out!\n\n\n\n\nEmail (Personal): mjmaslow13@gmail.com\n\nEmail (Academic): mjmaslow@bu.edu\n\n\n\n\n\n\nGitHub\n\nLinkedIn"
+    "text": "I’m always open to connecting about new projects, roles, research, or collaborations — especially in applied data science, analytics, or data engineering. If you have a question or just want to say hi, feel free to reach out!\n\n\nEmails\n\nEmail (Personal): mjmaslow13@gmail.com\n\nEmail (Academic): mjmaslow@bu.edu\n\n\n\n\nOnline Profiles\n\nGitHub\n\n\n\nLinkedIn"
   },
   {
     "objectID": "contact.html#contact-info",
@@ -67,7 +67,7 @@
     "href": "resume.html",
     "title": "Resume / CV",
     "section": "",
-    "text": "You can download my most recent resume below:\n\nDownload Resume (PDF)\n\n\n\n\nI am a data scientist with experience in data processing, analytics, modeling, engineering, and implementation — including interactive dashboards. I hold a B.S. in Data Science from St. Lawrence University and recently completed my M.S. in Data Science at Boston University, where I focused on machine/deep learning, AI ethics & privacy, medical science, financial analytics, and big data engineering with Azure.\nI bring hands-on experience developing machine learning pipelines, performing clinical research, and building data products in collaboration with health institutions, nonprofits, and academic teams. I’m especially passionate about applying technical rigor to high-impact, real-world domains.\n\n\n\n\n\nLanguages & Libraries: Python, R, SQL, Excel, scikit-learn, XGBoost, SHAP\n\nTools & Platforms: Jupyter, RStudio, Power BI, Microsoft Azure, Git, MySQL, APIs\n\nModeling Techniques: Logistic Regression, Decision Trees, Beta Regression, Gibbs Sampling\n\nSpecialties: ETL Pipelines, Health Data, Sentiment Analysis, Educational Analytics\n\nCertifications: CITI Program, HIPAA Compliance"
+    "text": "Click here to view."
   },
   {
     "objectID": "resume.html#summary",
@@ -81,13 +81,13 @@
     "href": "resume.html#technical-skills",
     "title": "Resume / CV",
     "section": "",
-    "text": "Languages & Libraries: Python, R, SQL, Excel, scikit-learn, XGBoost, SHAP\n\nTools & Platforms: Jupyter, RStudio, Power BI, Microsoft Azure, Git, MySQL, APIs\n\nModeling Techniques: Logistic Regression, Decision Trees, Beta Regression, Gibbs Sampling\n\nSpecialties: ETL Pipelines, Health Data, Sentiment Analysis, Educational Analytics\n\nCertifications: CITI Program, HIPAA Compliance"
+    "text": "Programming: Python, R (RStudio), Excel, SQL, HTML\n\nTools & Platforms: Jupyter Notebooks, DataGrip, Rstudio, VS Code, Git, MySQL, Microsoft Azure, APIs, JSON, Power BI, Tableau\nCertifications: CITI Program, HIPAA Compliance"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Hemodynamic Monitoring in Cardiac Surgery\nAs a Research Assistant at Brown University Health, I contributed to a clinical study analyzing arterial pressure sites in cardiac surgery patients. I conducted statistical testing in R — including descriptive statistics and hypothesis testing — which supported the final peer-reviewed publication.\nJournal of Cardiothoracic and Vascular Anesthesia, May 2024\nCitation:\nBui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. Hemodynamic Monitoring In The Cardiac Surgical Patient: Comparison of Three Arterial Catheters. J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: 10.1053/j.jvca.2024.02.010. Epub 2024 Feb 13. PMID: 38461034\nGitHub Repo\n\n\n\nRodeo Sports Analytics – SCORE Network Publication\nFor my Senior Year Experience (SYE) at St. Lawrence University, I developed a data science project analyzing bull rider performance in the Professional Bull Riders (PBR) tour. I created cleaned datasets, custom indicators, and educational material, and the project was officially published by the SCORE Network as an open-access data product.\nView SCORE Network Publication\nGitHub Repo"
+    "text": "Hemodynamic Monitoring in Cardiac Surgery\nAs a Research Assistant at Brown University Health, I contributed to a clinical study analyzing arterial pressure sites in cardiac surgery patients. I conducted statistical testing in R — including descriptive statistics and hypothesis testing — which supported the final peer-reviewed publication.\nJournal of Cardiothoracic and Vascular Anesthesia, May 2024\nCitation:\nBui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. Hemodynamic Monitoring In The Cardiac Surgical Patient: Comparison of Three Arterial Catheters. J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: 10.1053/j.jvca.2024.02.010. Epub 2024 Feb 13. PMID: 38461034\nGitHub Repo\n\n\n\nRodeo Sports Analytics – SCORE Network Publication\nAs part of my Senior Year Experience (SYE) at St. Lawrence University, I developed a data science project analyzing rider performance in the Professional Bull Riders (PBR) tour. I created cleaned datasets, custom indicators, and educational content, and the project was published by the SCORE Network as an open-access data resource.\nSCORE Network, March 2024\nView SCORE Network Publication\nGitHub Repo"
   }
 ]

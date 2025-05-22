@@ -15,17 +15,15 @@ website:
         href: index.qmd
       - text: Projects
         href: projects.qmd
-      - text: Publications
-        href: publications.qmd
       - text: Current Work
         href: current.qmd
+      - text: Publications
+        href: publications.qmd
       - text: Resume / CV
         href: resume.qmd
       - text: Contact
         href: contact.qmd
     right:
-      - icon: github
-        href: https://github.com/mjmasl01/Project_CV_Work.git
       - icon: linkedin
         href: https://www.linkedin.com/in/matthew-maslow/
 

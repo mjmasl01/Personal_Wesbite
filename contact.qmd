@@ -15,6 +15,19 @@ I'm always open to connecting about new projects, roles, research, or collaborat
 
 ### Online Profiles
 
-- [GitHub](https://github.com/mjmasl01)  
-- [LinkedIn](https://www.linkedin.com/in/matthew-maslow/)
+::: {.center}
+[GitHub](https://github.com/mjmasl01){target="_blank"}
+:::
+
+<script>
+  window.open("https://github.com/mjmasl01", "_blank");
+</script>
+
+::: {.center}
+[LinkedIn](https://www.linkedin.com/in/matthew-maslow/){target="_blank"}
+:::
+
+<script>
+  window.open("https://www.linkedin.com/in/matthew-maslow/", "_blank");
+</script>
 

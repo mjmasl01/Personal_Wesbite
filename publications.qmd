@@ -8,13 +8,16 @@ As a Research Assistant at Brown University Health, I contributed to a clinical 
 *Journal of Cardiothoracic and Vascular Anesthesia*, May 2024  
 **Citation:**  
 Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. *Hemodynamic Monitoring In The Cardiac Surgical Patient: Comparison of Three Arterial Catheters.* J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: [10.1053/j.jvca.2024.02.010](https://doi.org/10.1053/j.jvca.2024.02.010). Epub 2024 Feb 13. PMID: [38461034](https://pubmed.ncbi.nlm.nih.gov/38461034/)  
+
 [GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/HemodynamicMonitoring_RcodeAnalysis_BrownHealth)
 
 ---
 
 ### Rodeo Sports Analytics – SCORE Network Publication  
-For my Senior Year Experience (SYE) at St. Lawrence University, I developed a data science project analyzing bull rider performance in the Professional Bull Riders (PBR) tour. I created cleaned datasets, custom indicators, and educational material, and the project was officially published by the SCORE Network as an open-access data product.
+As part of my Senior Year Experience (SYE) at St. Lawrence University, I developed a data science project analyzing rider performance in the Professional Bull Riders (PBR) tour. I created cleaned datasets, custom indicators, and educational content, and the project was published by the SCORE Network as an open-access data resource.
 
+*SCORE Network*, March 2024  
 [View SCORE Network Publication](https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html)  
 [GitHub Repo](https://github.com/mjmasl01/SYE---SCORE-Network)
+
 
