@@ -1,5 +1,5 @@
 ---
-title: "Matt Maslow"
+title: "Matthew Maslow"
 image: me.png
 about:
   template: trestles
@@ -23,9 +23,9 @@ comments: false
 
 ### Hi, I'm Matt
 
-I'm a data scientist with a strong foundation in statistical modeling, machine learning, and cloud-based analytics. I earned a B.S. in Data Science from [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"} in May 2024, where I focused on applied statistics, advanced modeling, and database systems. I have recently completed my M.S. in Data Science at [Boston University](https://www.bu.edu/cds/), with coursework in Bayesian statistics, deep learning, AI ethics, medical science, and financial analytics.
+I'm a data scientist with a strong foundation in statistical modeling, machine learning, and cloud-based analytics. I earned a B.S. in Data Science from [St. Lawrence University](https://www.stlawu.edu/offices/math-computer-science-and-statistics){target="_blank"} in May 2024, where I focused on applied statistics, advanced modeling, and database systems. I have recently completed my M.S. in Data Science at [Boston University](https://www.bu.edu/cds/), with coursework in Bayesian statistics, machine/deep learning, AI ethics & Privacy, medical science, financial analytics, and Big Data with Azure.
 
-My work spans health analytics, finance, sports, and public data visualization. Highlights include:
+My work spans health analytics, finance, sports, and public survey data. Highlights include:
 
 - Building real-time Azure pipelines and sentiment models for cryptocurrency analytics  
 - Creating Shiny dashboards and Power BI visualizations for public health and sports data  
@@ -34,41 +34,17 @@ My work spans health analytics, finance, sports, and public data visualization. 
 
 Whether regression modeling, cloud infrastructure, or storytelling through dashboards, I love applying data to solve real-world problems with clarity and insight.
 
-**Documents**  
-📄 [View Cover Letter (PDF)](General_CL.pdf)  
-🎓 [View Resume (PDF)](MjMaslow_Official_Master_Resume.pdf)
-
 ---
 
-## Dashboards & Data Projects
+## Quick Links
 
-- [US Alcohol Consumption Dashboard](https://mjmasl01.shinyapps.io/us_alcohol_consumption/){target="_blank"}  
-  Interactive Shiny app visualizing historical trends in per capita alcohol consumption across U.S. states by beverage type.
-
-- [March Madness Analysis](https://mjmasl01.shinyapps.io/data334_final_project_March_Madness/){target="_blank"}  
-  A Shiny dashboard analyzing NCAA March Madness performance, team statistics, and tournament insights.
-
-- [Bitcoin Market & Sentiment Tracker](https://app.powerbi.com/view?r=eyJrIjoiY2JiZWM1MGItNzY1Ny00NWJiLWI4Y2EtZjE2ZWExNzFiZWY0IiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9){target="_blank"}  
-  Real-time Power BI dashboard combining social sentiment analysis and cryptocurrency price signals, powered by Azure-based data pipelines.
-
----
-
-## Publications
-
-### Hemodynamic Monitoring in Cardiac Surgery
-
-As a Research Assistant (Summer 2023), I conducted statistical analysis in RStudio — including descriptive statistics and hypothesis testing — to examine systolic pressure variations across three arterial sites in cardiac surgery patients. This work contributed to a peer-reviewed research article published in the *Journal of Cardiothoracic and Vascular Anesthesia*.
-
-**Citation:**  
-Bui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. *Hemodynamic Monitoring in The Cardiac Surgical Patient: Comparison of Three Arterial Catheters.* J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: [10.1053/j.jvca.2024.02.010](https://doi.org/10.1053/j.jvca.2024.02.010). PMID: 38461034.  
-[View article](https://authors.elsevier.com/c/1ikJf_NyRSCPHg){target="_blank"}
-
-### Rodeo Sports Analytics: Senior Year Experience
-
-During my Senior Year Experience (SYE) at St. Lawrence University, I developed a public-facing data analytics project published by the SCORE Network. The project analyzes rider and bull performance data from the Professional Bull Riders (PBR) tour, using scraped statistics and custom indicators to explore event structure, athlete outcomes, as well as creating educational material for new data science learners to use.
-
-[View SCORE Network Project](https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html){target="_blank"}
+- [Projects](projects.qmd)  
+- [Publications](publications.qmd)  
+- [Current Work](current.qmd)  
+- [Resume](resume.qmd)  
+- [Contact Me](contact.qmd)
 
 :::
 :::{.footer}
+
 

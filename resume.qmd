@@ -1,0 +1,26 @@
+---
+title: "Resume / CV"
+---
+
+# Resume
+
+You can download my most recent resume below:
+
+- [Download Resume (PDF)](MjMaslow_Official_Master_Resume.pdf)
+
+---
+
+## Summary
+
+I am a data scientist with experience in data processing, analytics, modeling, engineering, and implementation — including interactive dashboards. I hold a B.S. in Data Science from St. Lawrence University and recently completed my M.S. in Data Science at Boston University, where I focused on machine/deep learning, AI ethics & privacy, medical science, financial analytics, and big data engineering with Azure.
+
+I bring hands-on experience developing machine learning pipelines, performing clinical research, and building data products in collaboration with health institutions, nonprofits, and academic teams. I'm especially passionate about applying technical rigor to high-impact, real-world domains.
+
+---
+
+## Technical Skills
+
+- **Programming:** Python, R (RStudio), Excel, SQL, HTML  
+- **Tools & Platforms:** Jupyter Notebooks, DataGrip, Rstudio, VS Code, Git, MySQL, Microsoft Azure, APIs, JSON, Power BI, Tableau
+- **Certifications:** CITI Program, HIPAA Compliance
+

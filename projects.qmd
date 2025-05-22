@@ -1,0 +1,67 @@
+---
+title: "Projects"
+---
+
+### Bitcoin Market & Sentiment Tracker  
+Power BI dashboard analyzing cryptocurrency market sentiment and price signals using social media and historical price data.  
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2JiZWM1MGItNzY1Ny00NWJiLWI4Y2EtZjE2ZWExNzFiZWY0IiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9)  
+[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/Bitcoin%20Sentiment%20Analysis%20Using%20Machine%20Learning%20and%20Azure%20Based%20ETL)
+
+---
+
+### US Alcohol Consumption Dashboard  
+Shiny app visualizing historical trends in per capita alcohol consumption across U.S. states by beverage type.  
+[Launch App](https://mjmasl01.shinyapps.io/us_alcohol_consumption/)  
+[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/US%20Alcohol%20Consumption%20Historical%20Dashboard)
+
+---
+
+### 2024 March Madness Analysis  
+Shiny dashboard analyzing 2024 NCAA March Madness performance, team statistics, and tournament insights. 
+[Launch App](https://mjmasl01.shinyapps.io/data334_final_project_March_Madness/) 
+[GitHub Repo](https://github.com/mjmasl01/data334_final_project)
+
+---
+
+### Financial Analytics: CEO Pay and Performance  
+Regression-based group study examining the relationship between executive compensation and financial performance in tech companies.  
+[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/Financial%20Analytics%20-%20CEO%20Pay%20and%20Performance)
+
+---
+
+### Hemodynamic Monitoring (Clinical Research)  
+Statistical R analysis on arterial pressure site comparisons in cardiac surgery patients. Used in peer-reviewed publication.  
+[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/HemodynamicMonitoring_RcodeAnalysis_BrownHealth)
+
+---
+
+### Music Genre Classification Using Deep Learning  
+KNN vs. CNN comparison using audio features and spectrograms to classify music genres.  
+[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/Music%20Genre%20Classification%20Using%20Deep%20Learning)
+
+---
+
+### Predicting Depression Risk from NHANES Data  
+Logistic regression and XGBoost models with SHAP explainability and class rebalancing (SMOTE).  
+[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/Predicting%20Depression%20Risk%20from%20NHANES%20Data)
+
+---
+
+### SYE – SCORE Network (Rodeo Sports Analytics)  
+Capstone project analyzing PBR bull rider performance. [Published to the SCORE Network](https://data.scorenetwork.org/rodeo_sports/bullriders_n_bulls_pbr_tpd_2023.html).  
+[GitHub Repo](https://github.com/mjmasl01/SYE---SCORE-Network)
+
+---
+
+### Tree-Based Beta Regression for Metatranscriptomics  
+Group project, where we modeled microbial gene expression data using beta regression and tree-based feature selection.  
+[GitHub Repo](https://github.com/mjmasl01/Project_CV_Work/tree/main/Tree-Based%20Beta%20Reg%20for%20Metatranscriptomics)
+
+---
+
+### Save the Children: An Analysis on Programs 
+Group project applying machine learning models and pipeline development to student-level data across multiple countries. I specifically contributed to the Student Retention Studies component. 
+*Details available upon request, in accordance with client confidentiality.*
+
+
+

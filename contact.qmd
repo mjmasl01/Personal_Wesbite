@@ -1,0 +1,20 @@
+---
+title: "Contact"
+---
+
+I'm always open to connecting about new projects, roles, research, or collaborations — especially in applied data science, analytics, or data engineering. If you have a question or just want to say hi, feel free to reach out!
+
+---
+
+### Emails
+
+- **Email (Personal):** [mjmaslow13@gmail.com](mailto:mjmaslow13@gmail.com)  
+- **Email (Academic):** [mjmaslow@bu.edu](mailto:mjmaslow@bu.edu)
+
+---
+
+### Online Profiles
+
+- [GitHub](https://github.com/mjmasl01)  
+- [LinkedIn](https://www.linkedin.com/in/matthew-maslow/)
+
