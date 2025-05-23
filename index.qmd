@@ -7,9 +7,6 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/matthew-maslow/"
-    - text: Project Work GitHub
-      icon: github
-      url: "https://github.com/mjmasl01/Project_CV_Work.git"
     - text: Email (Personal)
       icon: envelope
       url: "mailto:mjmaslow13@gmail.com"
