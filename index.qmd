@@ -100,23 +100,21 @@ function updateClockAndDate() {
 setInterval(updateClockAndDate, 1000);
 window.addEventListener("DOMContentLoaded", updateClockAndDate);
 
-// Rotate tech facts every 30 seconds
+// Rotate tech facts every 6–9 seconds
 let factIndex = 0;
 function rotateTechFact() {
   document.getElementById("tech-fact").textContent = `💡 ${techFacts[factIndex]}`;
   factIndex = (factIndex + 1) % techFacts.length;
 }
-rotateTechFact();
-function startRandomFactRotation() {
-  rotateTechFact(); // initial
+function startFactLoop() {
+  rotateTechFact(); // First display
   setTimeout(function loop() {
     rotateTechFact();
-    const nextInterval = Math.floor(Math.random() * (9000 - 6000 + 1)) + 6000;
-    setTimeout(loop, nextInterval);
+    const delay = Math.floor(Math.random() * (9000 - 6000 + 1)) + 6000;
+    setTimeout(loop, delay);
   }, Math.floor(Math.random() * (9000 - 6000 + 1)) + 6000);
 }
-
-startRandomFactRotation();
+startFactLoop();
 </script>
 
 <style>
@@ -146,7 +144,6 @@ startRandomFactRotation();
   max-width: 600px;
 }
 </style>
-
 
 
 
