@@ -48,6 +48,7 @@ Whether regression modeling, cloud infrastructure, or storytelling through dashb
 
 :::
 
+<hr>
 :::{.tech-fact-bar}
 <div id="tech-fact">💡 Loading fact...</div>
 :::
@@ -99,14 +100,14 @@ function updateClockAndDate() {
 setInterval(updateClockAndDate, 1000);
 window.addEventListener("DOMContentLoaded", updateClockAndDate);
 
-// Rotate tech facts every 5 minutes
+// Rotate tech facts every 30 seconds
 let factIndex = 0;
 function rotateTechFact() {
   document.getElementById("tech-fact").textContent = `💡 ${techFacts[factIndex]}`;
   factIndex = (factIndex + 1) % techFacts.length;
 }
 rotateTechFact();
-setInterval(rotateTechFact, 5 * 60 * 1000);
+setInterval(rotateTechFact, 30 * 1000);
 </script>
 
 <style>

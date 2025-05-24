@@ -197,6 +197,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 </div>
+<hr>
 <div class="tech-fact-bar">
 <div id="tech-fact">
 💡 Loading fact…
@@ -247,14 +248,14 @@ function updateClockAndDate() {
 }
 setInterval(updateClockAndDate, 1000);
 window.addEventListener("DOMContentLoaded", updateClockAndDate);
-// Rotate tech facts every 5 minutes
+// Rotate tech facts every 30 seconds
 let factIndex = 0;
 function rotateTechFact() {
   document.getElementById("tech-fact").textContent = `💡 ${techFacts[factIndex]}`;
   factIndex = (factIndex + 1) % techFacts.length;
 }
 rotateTechFact();
-setInterval(rotateTechFact, 5 * 60 * 1000);
+setInterval(rotateTechFact, 30 * 1000);
 </script>
 <style>
 .time-date-bar {
