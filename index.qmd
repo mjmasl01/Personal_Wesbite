@@ -107,7 +107,16 @@ function rotateTechFact() {
   factIndex = (factIndex + 1) % techFacts.length;
 }
 rotateTechFact();
-setInterval(rotateTechFact, 30 * 1000);
+function startRandomFactRotation() {
+  rotateTechFact(); // show first fact
+  setTimeout(function loop() {
+    rotateTechFact();
+    const nextInterval = Math.floor(Math.random() * (14000 - 10000 + 1)) + 10000;
+    setTimeout(loop, nextInterval);
+  }, Math.floor(Math.random() * (14000 - 10000 + 1)) + 10000);
+}
+
+startRandomFactRotation();
 </script>
 
 <style>
