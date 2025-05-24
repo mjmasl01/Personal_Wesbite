@@ -256,12 +256,12 @@ function rotateTechFact() {
 }
 rotateTechFact();
 function startRandomFactRotation() {
-  rotateTechFact(); // show first fact
+  rotateTechFact(); // initial
   setTimeout(function loop() {
     rotateTechFact();
-    const nextInterval = Math.floor(Math.random() * (14000 - 10000 + 1)) + 10000;
+    const nextInterval = Math.floor(Math.random() * (9000 - 6000 + 1)) + 6000;
     setTimeout(loop, nextInterval);
-  }, Math.floor(Math.random() * (14000 - 10000 + 1)) + 10000);
+  }, Math.floor(Math.random() * (9000 - 6000 + 1)) + 6000);
 }
 startRandomFactRotation();
 </script>
