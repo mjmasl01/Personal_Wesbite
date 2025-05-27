@@ -32,7 +32,7 @@
     "href": "current.html",
     "title": "Current Work & Projects",
     "section": "",
-    "text": "Coming soon!"
+    "text": "FootyAI — a dynamic Streamlit dashboard for exploring football data across top European leagues (EPL, Bundesliga, La Liga, Serie A). Features include interactive match stats, standings, and a GPT-powered assistant (in Pro version) for natural language Q&A. An ML-based prediction model is currently in development to further enhance the assistant’s insight generation."
   },
   {
     "objectID": "projects.html",
@@ -89,5 +89,12 @@
     "title": "Publications",
     "section": "",
     "text": "Hemodynamic Monitoring in Cardiac Surgery\nAs a Research Assistant at Brown University Health, I contributed to a clinical study analyzing arterial pressure sites in cardiac surgery patients. I conducted statistical testing in R — including descriptive statistics and hypothesis testing — which supported the final peer-reviewed publication.\nJournal of Cardiothoracic and Vascular Anesthesia, May 2024\nCitation:\nBui D, Hayward G, Chen TH, Apruzzese P, Asher S, Maslow M, Gorgone M, Hunter C, Flaherty D, Kendall M, Maslow A. Hemodynamic Monitoring In The Cardiac Surgical Patient: Comparison of Three Arterial Catheters. J Cardiothorac Vasc Anesth. 2024 May;38(5):1115–1126. doi: 10.1053/j.jvca.2024.02.010. Epub 2024 Feb 13. PMID: 38461034\nGitHub Repo\n\n\n\nRodeo Sports Analytics – SCORE Network Publication\nAs part of my Senior Year Experience (SYE) at St. Lawrence University, I developed a data science project analyzing rider performance in the Professional Bull Riders (PBR) tour. I created cleaned datasets, custom indicators, and educational content, and the project was published by the SCORE Network as an open-access data resource.\nSCORE Network, March 2024\nView SCORE Network Publication\nGitHub Repo"
+  },
+  {
+    "objectID": "current.html#footyai",
+    "href": "current.html#footyai",
+    "title": "Current Work & Projects",
+    "section": "",
+    "text": "— a dynamic Streamlit dashboard for exploring football data across top European leagues (EPL, Bundesliga, La Liga, Serie A). Features include interactive match stats, standings, and a GPT-powered assistant (in Pro version) for natural language Q&A. An ML-based prediction model is currently in development to further enhance the assistant’s insight generation."
   }
 ]
