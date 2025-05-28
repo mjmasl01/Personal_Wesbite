@@ -48,10 +48,6 @@ Whether regression modeling, cloud infrastructure, or storytelling through dashb
 
 :::
 
-<hr>
-:::{.tech-fact-bar}
-<div id="tech-fact">💡 Loading fact...</div>
-:::
 
 <script>
 const techFacts = [
