@@ -32,7 +32,7 @@
     "href": "current.html",
     "title": "Current Work & Projects",
     "section": "",
-    "text": "FootyAI — a dynamic Streamlit dashboard for exploring football data across top European leagues (EPL, Bundesliga, La Liga, Serie A). Features include interactive match stats, standings, and a GPT-powered assistant (in Pro version) for natural language Q&A. An ML-based prediction model is currently in development to further enhance the assistant’s insight generation."
+    "text": "FootyAI — a dynamic Streamlit dashboard for exploring football data across top European leagues (EPL, Bundesliga, La Liga, Serie A). Features include interactive match stats, standings, and a GPT-powered assistant (in Pro version) for natural language Q&A. An ML-based prediction model is currently in development to further enhance the assistant’s insight generation. Repo Link"
   },
   {
     "objectID": "projects.html",
