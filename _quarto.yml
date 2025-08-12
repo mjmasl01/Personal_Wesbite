@@ -13,10 +13,10 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Projects
-        href: projects.qmd
       - text: Current Work
         href: current.qmd
+      - text: Projects
+        href: projects.qmd
       - text: Publications
         href: publications.qmd
       - text: Resume / CV
