@@ -13,11 +13,6 @@ about:
 comments: false
 ---
 
-:::{.time-date-bar}
-<div id="clock-display">🕒 Loading...</div>
-<div id="date-display">📅 Loading...</div>
-:::
-
 :::{.main-content}
 
 ### Hi, I'm Matt
