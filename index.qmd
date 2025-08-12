@@ -7,12 +7,9 @@ about:
     - text: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/matthew-maslow/"
-    - text: Email (Personal)
+    - text: Email
       icon: envelope
       url: "mailto:mjmaslow13@gmail.com"
-    - text: Email (Academic)
-      icon: envelope
-      url: "mailto:mjmaslow@bu.edu"
 comments: false
 ---
 
