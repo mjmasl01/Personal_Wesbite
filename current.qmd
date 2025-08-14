@@ -11,5 +11,3 @@ title: "Current Work & Projects"
 
 - *Research Project Work (August 2025 – Present):*
   - Currently doing work as a statistical R programmer for a group analyzing the relationship between hemodynamic data, right ventricular function, and patient outcomes.
-
----
