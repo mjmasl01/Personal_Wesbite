@@ -4,6 +4,10 @@ title: "Current Work & Projects"
 
 - *DataCamp Certifications (In Progress, May 2025 – Present):*  
   - Completing coursework in data science and analytics using R, Python, and SQL to build and maintain skills in data manipulation, visualization, and machine learning.
+  - Completed Tracks:
+    - Data Analyst with R — <a href="https://www.datacamp.com/statement-of-accomplishment/track/e3a37520d0eb121ff9858341b2d5786d8539018d?raw=1" target="_blank">Certificate</a> | <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e3a37520d0eb121ff9858341b2d5786d8539018d" target="_blank">Course Details</a>
+    
+    
 
 - *Research Project Work (August 2025 – Present):*
   - Currently doing work as a statistical R programmer for a group analyzing the relationship between hemodynamic data, right ventricular function, and patient outcomes.
