@@ -5,11 +5,11 @@ page-layout: full
 ---
 
 ::: {.center}
-[Click here to view.](Maslow_Resume.pdf){target="_blank"}
+[Click here to view.](Maslow_Resume_NEW.pdf){target="_blank"}
 :::
 
 <script>
-  window.open("Maslow_Resume.pdf", "_blank");
+  window.open("Maslow_Resume_NEW.pdf", "_blank");
 </script>
 <script>
-  window.location.href = "Maslow_Resume.pdf";
+  window.location.href = "Maslow_Resume_NEW.pdf";
