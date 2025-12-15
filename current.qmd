@@ -10,4 +10,7 @@ title: "Current Work & Projects"
  ---   
 
 - *Research Project Work (July 2025 – Present):*
+
   - Performing data analysis and biostatistics on hemodynamic datasets using R and Excel to support cardiovascular research group. Work includes data cleaning, exploratory statistics, and logistic regression to identify significant predictors of outcomes, with projects such as Comparing Echocardiography and Right Heart Catheterization for Mortality Prediction in Pulmonary Hypertension and Qualitative Echocardiographic Assessment of Right Ventricular Size and Function Only Permits Binary Conclusions With Regard to Right Ventricular Performance.
+  
+  - Conducted Bland–Altman analyses to compare repeated echocardiographic measurements across separate echo acquisitions, evaluating consistency within the same imaging modality. Additional analyses compared measurements between 2D and 3D echocardiography and examined agreement differences between patients with and without mitral valve repair.
